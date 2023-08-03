@@ -1,2 +1,6 @@
 # Edukate
-The focus of Edukate is Assignment Assist. The user will come here and upload assignments, which will then be sent to Developer, who will complete the assignment and then return it to the user. Each user's and developer's information will be shared with the admin.
+1. Download the project and establish the database
+2. The database tables are contained in Edukate. SQL. Import it into your system.
+3. Once imported, navigate to Connection.php and SQL password should be changed.  
+4. You Are all set. Run the Website
+
